@@ -1,7 +1,8 @@
 body {
   font-size: 16px;
-  color: #ffffff;
-  background: #e7dede;
+  color: #c53d3d;
+  background: #ffffff;
+  background-image: url(img/Empresas\ de.png);
   font-family: 'Raleway', arial, sans-serif;
 }
 
@@ -9,8 +10,8 @@ h1 {
   text-align: center;
   font-size: 6em;
   font-weight: 300;
-  position: absolute;
-  margin: 0;
+  position: relative;
+  margin: 20;
   top: 50%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
