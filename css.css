@@ -2,7 +2,7 @@ body {
   font-size: 16px;
   color: #c53d3d;
   background: #ffffff;
-  background-image: url(img/Empresas\ de.png);
+  background-image: url(img/Index.png);
   font-family: 'Raleway', arial, sans-serif;
 }
 
@@ -50,10 +50,10 @@ body {
 }
 #mainnav a {
   text-decoration: none;
-  color: #0c0c0c;
+  color: #faf9f9;
 }
 #mainnav i {
-  border: 2px solid #070707;
+  border: 2px solid #fcf8f8;
   padding: .5em;
   border-radius: 50%;
 }
